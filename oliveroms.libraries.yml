@@ -3,6 +3,9 @@ global-styling:
  css:
    theme:
      css/base.css: {}
+     css/layout/layout.css: {}
+     css/components/header-navigation.css: {}
+     css/components/site-header.css: {}
      css/block-sidebar-bannery.css: {}
  js:
    js/base.js: {}
