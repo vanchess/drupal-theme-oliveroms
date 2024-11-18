@@ -1,0 +1,17 @@
+global-styling:
+ version: VERSION
+ css:
+   theme:
+     css/base.css: {}
+     css/block-sidebar-bannery.css: {}
+ js:
+   js/base.js: {}
+banner-pos-styling:
+ version: 1.0
+ css:
+   theme:
+     css/pos-styling.css: {preprocess: false}
+     css/pos-styling-2.css: {preprocess: false}
+     css/pos-styling-user.css: {}
+ js:
+   js/pos-scripts.js: {}

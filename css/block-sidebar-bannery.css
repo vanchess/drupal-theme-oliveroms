@@ -1,0 +1,7 @@
+.block-sidebar-bannery .view-content {
+    gap: 0;
+}
+
+.block-sidebar-bannery .node__content {
+    padding-block-end: var(--sp0-25);
+}
